@@ -100,6 +100,10 @@ pyinstaller --noconsole --onedir --name GameSaveSync save_claude_1.py
 
 Рекомендуется режим `--onedir`: так не создаётся временная папка при каждом запуске, и не бывает предупреждения `Failed to remove temporary directory`.
 
+## Скачать
+
+**[Game Save Sync — Скачать последнюю версию (.exe)]([https://github.com/USERNAME/REPOSITORY/releases/latest/download/GameSaveSync.exe](https://github.com/Zhekaggg/GameSaveSyns/releases/tag/v1.0.0))**
+
 ## Ограничения
 
 - Только Windows. На телефонах не работает.
