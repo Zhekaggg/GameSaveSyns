@@ -3,7 +3,7 @@
     <b>Download Game Save Sync (.exe)</b>
   </a>
   ·
-  <a href="[https://github.com/USERNAME/REPOSITORY/releases](https://github.com/Zhekaggg/GameSaveSyns/releases)">
+  <a href="https://github.com/Zhekaggg/GameSaveSyns/releases">
     All Releases
   </a>
 </p>
