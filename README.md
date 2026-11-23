@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/GameSaveSync.exe">
+  <a href="https://github.com/Zhekaggg/GameSaveSyns/releases/tag/v1.0.0">
     <b>Download Game Save Sync (.exe)</b>
   </a>
   ·
-  <a href="https://github.com/USERNAME/REPOSITORY/releases">
+  <a href="[https://github.com/USERNAME/REPOSITORY/releases](https://github.com/Zhekaggg/GameSaveSyns/releases)">
     All Releases
   </a>
 </p>
